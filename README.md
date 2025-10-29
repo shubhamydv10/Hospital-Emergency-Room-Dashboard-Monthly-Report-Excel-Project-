@@ -9,7 +9,7 @@ The dashboard provides a clear and comprehensive view of hospital operations —
 
 ## 🎯 Objective
 
-The main objective of this dashboard is to:
+The main objective of this <a href="https://github.com/shubhamydv10/Hospital-Emergency-Room-Dashboard-Monthly-Report-Excel-Project-/blob/main/Final%20Dashboard.png">Dashboard</a> is to:
 
 * Track and visualize **monthly emergency room performance**.
 * Identify **patient trends** such as age, gender, and referral departments.
