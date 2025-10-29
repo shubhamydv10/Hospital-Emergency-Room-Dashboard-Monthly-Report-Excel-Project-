@@ -94,7 +94,7 @@ This helps in understanding patient flow and departmental workload.
 
 ## 📁 Dataset Description
 
-The dataset contains anonymized records of emergency room visits, including:
+The <a href="https://github.com/shubhamydv10/Hospital-Emergency-Room-Dashboard-Monthly-Report-Excel-Project-/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a> contains anonymized records of emergency room visits, including:
 
 | Column                | Description                                        |
 | --------------------- | -------------------------------------------------- |
@@ -121,40 +121,10 @@ The dataset contains anonymized records of emergency room visits, including:
 
 ---
 
-## 🚀 Future Improvements
 
-* Add trend analysis for multiple months (using Power Query or VBA automation).
-* Incorporate conditional alerts for KPI thresholds.
-* Extend to **Power BI** for interactive, web-based visualization.
-* Integrate predictive modeling to forecast patient volume.
 
----
 
-## 📂 Repository Contents
 
-```
-/Hospital_ER_Dashboard/
-│
-├── 📊 Hospital_Emergency_Room_Dashboard.xlsx
-├── 🧾 Data/hospital_er_data.csv
-├── 🖼️ Images/dashboard_preview.png
-├── 📄 README.md
-└── LICENSE
-```
-
----
-
-## 🏷️ Tags
-
-`#ExcelDashboard` `#DataAnalysis` `#HealthcareAnalytics` `#DataVisualization` `#HospitalPerformance` `#MicrosoftExcel`
-
----
-
-This Excel dashboard is a strong demonstration of **data visualization, storytelling, and healthcare analytics** using Excel — ideal for showcasing skills in operational reporting and KPI tracking.
-
----
-
-Would you like me to add a **GitHub repository title, description, and short tagline** (the 2–3 lines that appear on your repo homepage)?
 
 
 
