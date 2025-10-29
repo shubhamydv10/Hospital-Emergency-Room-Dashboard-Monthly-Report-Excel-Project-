@@ -1,0 +1,2 @@
+# Hospital-Emergency-Room-Dashboard-Monthly-Report-Excel-Project-
+This Excel dashboard visualizes monthly Emergency Room (ER) activity and performance metrics to help clinical managers and hospital administrators monitor patient volume, wait times, admission outcomes, satisfaction, and department referrals. The dashboard is designed for quick, at-a-glance understanding with drilldown by month and year.
