@@ -20,7 +20,7 @@ The main objective of this <a href="https://github.com/shubhamydv10/Hospital-Eme
 
 ## 📊 Key Insights Displayed
 
-The dashboard consists of multiple performance metrics and visualizations:
+The <a href="https://github.com/shubhamydv10/Hospital-Emergency-Room-Dashboard-Monthly-Report-Excel-Project-/blob/main/Final%20Dashboard.png">Dashboard</a> consists of multiple performance metrics and visualizations:
 
 ### 1. **KPIs Section**
 
