@@ -121,6 +121,9 @@ The <a href="https://github.com/shubhamydv10/Hospital-Emergency-Room-Dashboard-M
 
 ---
 
+## 📊 Dashboard
+
+<img width="1652" height="757" alt="Final Dashboard" src="https://github.com/user-attachments/assets/b41c51ef-b14c-4a3f-a55c-306e5c3abfe4" />
 
 
 
